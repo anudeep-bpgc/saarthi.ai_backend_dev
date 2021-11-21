@@ -22,7 +22,7 @@ cd to root.
 > pip install djangorestframework
 
 
-> python .\manage.py runserver
+> python .\manage.py runserver 8080
 
 
 ##### Requirement 1
